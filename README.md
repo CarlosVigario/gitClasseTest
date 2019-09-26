@@ -1,1 +1,1 @@
-# gitClasseTest
+# Projeto de teste para o Git
